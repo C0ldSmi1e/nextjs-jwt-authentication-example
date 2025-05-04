@@ -4,7 +4,7 @@ A minimalist Next.js project demonstrating route protection with JWT authenticat
 
 ## Deploy Your Own
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/C0ldSmi1e/nextjs-jwt-login-example&project-name=nextjs-jwt-login-example&repository-name=nextjs-jwt-login-example)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/C0ldSmi1e/nextjs-jwt-authentication-example?tab=readme-ov-file&project-name=nextjs-jwt-authentication-example&repository-name=nextjs-jwt-authentication-example)
 
 ## Overview
 
